@@ -108,15 +108,7 @@ plt.ylabel("Petal Length (cm)")
 plt.title("Iris Classification with Decision Boundary")
 plt.legend()
 plt.show()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
+ADI
 
 
 
